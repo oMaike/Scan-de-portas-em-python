@@ -9,7 +9,9 @@ for port in ports:
     if(resposta == 0):
         print(port, "aberta")
         
-    else:
+    else:   
         print(port, "Fechada")
+        
+        
     
     
