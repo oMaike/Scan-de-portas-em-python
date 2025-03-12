@@ -1,0 +1,1 @@
+site: com.br AND (intext: "sql syntax near" | intext: system erro has occured" | intext:"incorrect syntax near" | intext:" unexpected end of SQL command" | intext:" Warning mysql_connect()" | intext: "Warning mysql_query()" | intext: "Warning: pg_connect()")
